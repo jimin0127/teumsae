@@ -1,0 +1,4 @@
+C:\WorkSpace\sinsari\BetweenNoodle\obj\Debug\netcoreapp3.1\BetweenNoodle.csprojAssemblyReference.cache
+C:\WorkSpace\sinsari\BetweenNoodle\obj\Debug\netcoreapp3.1\BetweenNoodle.AssemblyInfoInputs.cache
+C:\WorkSpace\sinsari\BetweenNoodle\obj\Debug\netcoreapp3.1\BetweenNoodle.AssemblyInfo.cs
+C:\WorkSpace\sinsari\BetweenNoodle\obj\Debug\netcoreapp3.1\BetweenNoodle.csproj.CoreCompileInputs.cache
