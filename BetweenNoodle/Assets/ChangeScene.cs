@@ -17,7 +17,11 @@ public class ChangeScene : MonoBehaviour
         
     }
 
-    public void ChangeGameScene(){
+    public void GoToAttendanceScene(){
         SceneManager.LoadScene("AttendanceScene");
+    }
+
+    public void GoToSettingScene(){
+        SceneManager.LoadScene("SettingScene");
     }
 }
